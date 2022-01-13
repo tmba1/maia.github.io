@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maia.github.io/static/css/main.2708a537.css",
+    "main.js": "/maia.github.io/static/js/main.58eb6d58.js",
+    "static/js/787.de0f09eb.chunk.js": "/maia.github.io/static/js/787.de0f09eb.chunk.js",
+    "index.html": "/maia.github.io/index.html",
+    "main.2708a537.css.map": "/maia.github.io/static/css/main.2708a537.css.map",
+    "main.58eb6d58.js.map": "/maia.github.io/static/js/main.58eb6d58.js.map",
+    "787.de0f09eb.chunk.js.map": "/maia.github.io/static/js/787.de0f09eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2708a537.css",
+    "static/js/main.58eb6d58.js"
+  ]
+}
